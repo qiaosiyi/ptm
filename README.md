@@ -27,3 +27,8 @@ git commit -m "add dynamic weight update support"
 git checkout shaper
 git push simulation
 ```
+
+## 2. PTM setup
+Questa setup
+
+Directroy: /home/siyiq/Questa106dinstall/questasim
